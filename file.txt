@@ -3,7 +3,7 @@ this is file1 for git branch
 
 # change the values of num1, num2 and num3
 # for a different result
-num1 = 11
+num1 = 16
 num2 = 14
 num3 = 12
 
